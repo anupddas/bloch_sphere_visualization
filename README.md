@@ -16,16 +16,15 @@ This project is a Bloch Sphere Visualizer built using Python, Tkinter for the GU
    ```bash
    git clone https://github.com/yourusername/bloch_sphere_visualization.git
 
-  ```bash
+  
   cd sales-data-analytics
 
 2. Install Qiskit1.x from IBM Quantum:
-  ```bash
+
   pip install qiskit
 
 ## Usage:
 Run the script to launch the Bloch Sphere Visualizer:
-  ```bash
   python main.py
 
 Use the GUI to manipulate quantum states and observe the corresponding Bloch Sphere representation.
